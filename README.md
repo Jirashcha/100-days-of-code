@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-- I will code for at least an hour every day for the next 100 days and Tweet my progress every day with the #100DaysOfCode hashtag.
+- I will code for at least an hour every day for the next 100 days and tweet my progress every day with the #100DaysOfCode hashtag.
 
 ## Contents
 
